@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fábio</h1>
 <h3 align="center">A developer from Lisbon</h3>
 
-- 💼 Interoperability Researcher @ **Uninova**
+- 💼 Interoperability Researcher @ **UNINOVA**
 - ⚡ Electrical and Computer Engineer from **FCT-NOVA**
 - 🎓 PhD Student @ **FCT-NOVA**
 - 🌱 Always learning
