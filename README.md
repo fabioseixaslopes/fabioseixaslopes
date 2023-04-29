@@ -7,10 +7,16 @@
 - 🌱 Always learning
 - 💬 me@fabioseixaslopes.com
 
-<h5 align="left">My projects here include:</h5>
-<p align="left">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,python,git&light" />
+  </a>
+</p>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+<center>
+
+[![](https://github-readme-stats.vercel.app/api?username=fabioseixaslopes&count_private=true&show_icons=true&theme=noctis_minimus&hide=stars,prs,issues&rank_icon=github)]()
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioseixaslopes&count_private=true&show_icons=true&theme=noctis_minimus&layout=compact)]()
+
+</center>
