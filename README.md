@@ -12,7 +12,6 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,androidstudio,python,javascript,html,css,git,vscode&perline=4" width=280 />
+  <img src="https://skillicons.dev/icons?i=python,java,androidstudio,javascript,html,css,git,vscode&perline=4" width=280 />
   <img src="https://stats-sigma-roan.vercel.app/api/top-langs/?username=fabioseixaslopes&show_icons=true&theme=transparent&layout=compact&hide_border=true&langs_count=10&exclude_repo=stats&hide_title=true" width=300/>
-  <img src="https://stats-sigma-roan.vercel.app/api?username=fabioseixaslopes&show_icons=true&theme=transparent&hide=stars,prs,issues&rank_icon=github&hide_border=true&exclude_repo=stats&hide_title=true" width=400/>
 </p>
