@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fábio</h1>
-<h3 align="center">Software Engineer</h3>
+<!--<h3 align="center">Software Engineer</h3>-->
 
 <br>
 
-&nbsp; &nbsp; &nbsp; &nbsp; 💼 Software Engineer / Researcher / Project Manager @ UNINOVA <br>
+&nbsp; &nbsp; &nbsp; &nbsp; 💼 Technical Project Manager / Researcher @ UNINOVA <br>
 &nbsp; &nbsp; &nbsp; &nbsp; ⚡ Electrical and Computer Engineer <br>
 &nbsp; &nbsp; &nbsp; &nbsp; 🎓 PhD Student @ NOVA <br>
 &nbsp; &nbsp; &nbsp; &nbsp; 🌱 Always learning <br>
